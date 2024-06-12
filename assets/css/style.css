@@ -18,7 +18,6 @@ body {
     font-family: lato sans-serif;
 }
 
-
 /* The Header of the website */
 header {
     background-color: #ffffff;
@@ -51,7 +50,7 @@ header a {
 h1 {
     font-family: lota sans-serif; 
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: #252525;
 }
 /* create a navbar styles*/
@@ -76,6 +75,7 @@ nav {
 }
 .nav-toggle-label {
     font-size: 2rem;
+    padding-right: 5px;
 }
 
 /* The Main Body Content of the Website */
