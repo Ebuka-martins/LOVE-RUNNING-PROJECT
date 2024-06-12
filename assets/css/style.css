@@ -27,10 +27,29 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+}
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    letter-spacing: 4px;
+    list-style-type: none;
+    font-size: 110%;
+}
+#menu > li {
+    margin-bottom: 1em;
+}
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 h1 {
     font-family: lota sans-serif; 
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
 
 /* The Main Body Content of the Website */
