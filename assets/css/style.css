@@ -105,7 +105,14 @@ footer {
     background-color: steelblue;
 }
 
-/* media query for Tablets and larger are (768px and up */
+/* media query for laptops and desktop are (992px and up ) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+}
+
+/* media query for Tablets and larger are (768px and up )*/
 @media screen and (min-width: 768px) {
     /* Header */
     nav {
