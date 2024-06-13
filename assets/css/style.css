@@ -100,13 +100,7 @@ main {
     margin-top: 125px;
 }
 
-/* Footer of the website */
-footer {
-    background-color: coral;
-}
-
-/* taget and arrange the social-network ID from html */
-
+/* Footer of the website and taget and arrange the social-network ID from html*/
 #social-network {
     padding: 20px o;
     display: flex;
