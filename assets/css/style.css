@@ -47,6 +47,7 @@ header a {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
 h1 {
     font-family: lota sans-serif; 
     text-transform: uppercase;
@@ -66,13 +67,13 @@ nav {
 }
 /* nav toggle */
 #nav-toggle:checked~nav {
-    display: block;
-    
+    display: block;    
 }
 
 #nav-toggle {
     display: none;
 }
+
 .nav-toggle-label {
     font-size: 2rem;
     padding-right: 5px;
@@ -84,6 +85,19 @@ main {
     /* make main element take up any surplus space to push footer down */
     flex: 1 0 250px;
     margin-top: 2rem;
+}
+
+/* make the logo bigger */
+#logo {
+    font-size: 200%;
+    line-height: 75px;
+    margin: 0 0 3rem;
+}
+
+/* main content */
+main {
+    /* push the main content down to accommodate larger header */
+    margin-top: 125px;
 }
 
 /* Footer of the website */
@@ -110,3 +124,4 @@ footer {
         display: none;
     }
 }
+
