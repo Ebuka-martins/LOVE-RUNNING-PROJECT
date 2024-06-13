@@ -102,7 +102,24 @@ main {
 
 /* Footer of the website */
 footer {
-    background-color: steelblue;
+    background-color: coral;
+}
+
+/* taget and arrange the social-network ID from html */
+
+#social-network {
+    padding: 20px o;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+/* taget the i element from html */
+#social-network i {
+    padding: 5%;
+    font-size: 160%;
+    color: #3a3a3a;
 }
 
 /* media query for laptops and desktop are (992px and up ) */
