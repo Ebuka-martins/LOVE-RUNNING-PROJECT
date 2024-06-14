@@ -112,6 +112,33 @@ main {
     color: #ffffff;
 }
 
+/* reason section */
+#reasons {
+    width: 90%;
+    margin: auto;
+}
+
+/* h2 selector on the reason section */
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+/* adding line heights to all divs on sections */
+#benefits-physical > div, #benefits-mental > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+}
+
+#benefits hr {
+    border: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
 
 /* make the logo bigger */
 #logo {
