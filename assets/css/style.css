@@ -81,11 +81,18 @@ nav {
 
 /* The Main Body Content of the Website */
 main {
-    background-color: thistle;
     /* make main element take up any surplus space to push footer down */
     flex: 1 0 250px;
     margin-top: 2rem;
 }
+
+/* #hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../image/tripping-image.webp") no-repeat center center/cover;
+}
+
 
 /* make the logo bigger */
 #logo {
