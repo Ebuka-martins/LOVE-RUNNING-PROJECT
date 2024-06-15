@@ -173,6 +173,7 @@ main {
     margin-top: 125px;
 }
 
+
 /* Footer of the website and taget and arrange the social-network ID from html*/
 #social-network {
     padding: 20px o;
@@ -180,6 +181,30 @@ main {
     text-align: center;
     justify-content: space-evenly;
     list-style-type: none;
+}
+
+/* Meeet Up */
+#times {
+    background: url("../image/dublin-city.webp") no-repeat center/cover;
+    /* Handle the divs without adding the media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+    /* this will wrap on screens of less than 400px wide.
+    each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+#times h3, #times h2 {
+    /* overide the heading color set in general styles */
+    color: #fafafa;
 }
 
 /* taget the i element from html */
