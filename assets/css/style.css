@@ -220,3 +220,26 @@ main {
     }
 }
 
+/* FOR WIDER DESTOP SCREEN */
+@media screen and (min-width: 1200px) {
+/* REASON SECTION */
+   #benefits {
+    display: flex;
+    flex-direction: row;
+   }
+   #benefits > div {
+    flex: 1;
+   }
+   #benefits-image {
+    order: 0;
+   }
+   #benefits-mental {
+    order: 1;
+   }
+   #benefits-mental > div {
+     align-self: flex-start;
+   }
+   #benefits-pyhsical > div {
+    align-self: flex-end;
+   }
+}
