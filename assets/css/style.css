@@ -140,6 +140,26 @@ main {
     margin: 5px 0;
 }
 
+/* circle cover image */
+
+#circle-cover-bg {
+    background: url("../image/circle-image.webp") no-repeat top center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* TO MAKE IMAGE IN CIRCLE FORMAT */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+/* TO MAKE THE IMAGE TO STAY IN THE MIDDLE OF THE MAGE */
+#benefits-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* make the logo bigger */
 #logo {
     font-size: 200%;
