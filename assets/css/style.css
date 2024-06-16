@@ -211,6 +211,18 @@ main {
     color: #fafafa;
 }
 
+/* GALLERY PAGE */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+    height: 100%;
+}
+#photos {
+    line-height: 0;
+}
+
+
+
 /* taget the i element from html */
 #social-network i {
     padding: 5%;
@@ -218,10 +230,25 @@ main {
     color: #3a3a3a;
 }
 
+
+/* MEDIA QUERY: LARGE OR LANDSCAPE PHONES (576PX AND UP) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: o;
+    }
+}
+
+
+
 /* media query for laptops and desktop are (992px and up ) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+    #photos {
+        column-count: 4;
+        column-gap: 0;
     }
 }
 
@@ -246,6 +273,10 @@ main {
     #cover-text {
         width: 300px;
         right: 30px;
+    }
+    #photos {
+        column-count: 3;
+        column-gap: 0;
     }
 }
 
