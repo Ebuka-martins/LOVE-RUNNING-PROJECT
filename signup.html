@@ -41,7 +41,41 @@
 
 
   <!--main content-->
-  <main>Main Content</main>
+  <main>
+    <section id="signup">
+      <form id="signup-form" action="https://formdump.codeinstitute.net" method="post">
+        <h2> <i class="fa-solid fa-heart-pulse"></i>LET GET YOU SIGNED UP</h2>
+
+        <label for="fname">First Name</label>
+        <input id="fname" type="text" name="fname" class="text-input" required>
+        <br>
+        <label for="lname">Last Name</label>
+        <input id="lname" type="text" name="lname" class="text-input" required>
+        <br>
+        <label for="email">Email Address</label>
+        <input id="email" type="text" name="lname" class="text-input" required>
+        <br>
+
+        <div id="radio-buttons">
+          <!---THE REQUIRED CHECKED MEANS IT IS SELECTED AUTOMATICALLY-->
+            <input type="radio" id="road" name="running-preference" required checked>
+            <label for="road">Road</label>
+    
+            <input type="radio" id="trail" name="running-preference" required>
+            <label for="trail">Trail</label>
+          
+            <input type="radio" id="both" name="running-preference" required>
+            <label for="both">Both</label>
+        </div>
+
+        <div>
+          <button type="submit" class=" join-button"> Let's Run!</button>
+        </div>
+
+      </form>
+
+    </section>
+  </main>
 
   <!--footer-->
   <footer>
