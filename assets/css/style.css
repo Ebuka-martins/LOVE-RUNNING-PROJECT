@@ -202,7 +202,8 @@ main {
 #signup-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, .6);
-    padding: 30px;
+    padding: 20px;
+    
 }
 
 /* TARGETING THE H2 FOR SIGNUP FORM */
@@ -311,6 +312,7 @@ main {
         column-count: 4;
         column-gap: 0;
     }
+  
 }
 
 /* media query for Tablets and larger are (768px and up )*/
@@ -348,7 +350,7 @@ main {
       max-width: 400px;
       position: absolute;
       left: 10%;
-      top: 150px;
+      bottom: 5px;
     }
     .text-input:hover {
         border-color: #f16c6b;
