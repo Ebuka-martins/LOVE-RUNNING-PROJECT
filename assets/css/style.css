@@ -33,7 +33,7 @@ h1, h2, h3 {
 /* The Header of the website */
 header {
     background-color: #ffffff;
-    padding-left: 0 1rem;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -209,7 +209,7 @@ main {
 /* TARGETING THE H2 FOR SIGNUP FORM */
 #signup-form > h2 {
     color: #fafafa;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 /* TO MAKE INPUT STANDS OUT AND BEAUTIFUL FOR SIGNUP.HTML */
@@ -243,7 +243,7 @@ main {
 
 /* Footer of the website and taget and arrange the social-network ID from html*/
 #social-network {
-    padding: 20px o;
+    padding: 20px 0;
     display: flex;
     text-align: center;
     justify-content: space-evenly;
@@ -297,7 +297,7 @@ main {
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
-        column-gap: o;
+        column-gap: 0;
     }
 }
 
