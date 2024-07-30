@@ -15,9 +15,13 @@ The site link can be accessed through the [Link](https://ebuka-martins.github.io
 
 - __The Home Page Section_
  
-  - The homepage contains a glamourous running section of people running.
-  - It also shows a section on why love running with us.
-  - The reason section involves a feel healthy, feel strong, feel free and get social advert.
-  - the section contains different number of daily activities for the week.
-  - 
+   - The homepage contains a glamourous running section of people running.
+   - It also shows a section on why love running with us.
+   - The reason section involves a feel healthy, feel strong, feel free and get social advert.
+   - the section contains different number of daily activities for the week.
+   - This section introduces the user of different reasons why you should love running with us.
+
+ ![home page](assets/image/hom-page.png)
+
+ 
 
