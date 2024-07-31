@@ -54,6 +54,17 @@ The site link can be accessed through the [Link](https://ebuka-martins.github.io
    - The section is a place where registration are also done.
      ![signup page](assets/image/signup-page.png) 
 
+## Design 
+  ### Color Design
+
+  ![text-color page](assets/image/text-color.png) 
+
+- White color was used as the background-color of the project, also it is also use as the symbol writeup on the home page and on the number of days for the lectures.
+-   Eerie Black was used as the main heading of the home page. 
+- jet color was used as the main font text of the home page.
+- seasalt color was used as the main write up for the form at the signup page.
+- Dark moss green was used as the button color at the signup page.
+- Light coral color was used as the hovering background color for the form on the signup page.
 
 
 
