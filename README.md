@@ -43,10 +43,16 @@ The site link can be accessed through the [Link](https://ebuka-martins.github.io
 
  - __The Gallery Page Section_  
 
-    -  This section gives the users a beautiful view of people who have participated in our love running lecture.
-    - The section inform the users on how healthy our customers have been with love running classes.
-    
-![gallery page](assets/image/gallery-page.png)  
+   -  This section gives the users a beautiful view of people who have participated in our love running lecture.
+   - The section inform the users on how healthy our customers have been with love running classes.
+
+     ![gallery page](assets/image/gallery-page.png)  
+
+ - __The Signup Page Section_  
+
+   - The section gives the user a signup form where they book or signup for there love running classes.
+   - The section is a place where registration are also done.
+     ![signup page](assets/image/signup-page.png) 
 
 
 
