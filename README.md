@@ -23,5 +23,30 @@ The site link can be accessed through the [Link](https://ebuka-martins.github.io
 
  ![home page](assets/image/hom-page.png)
 
+- __Forms and Buttons_ 
+ 
+  - The forms and buttons on this project is where you can book or signup for your love running classes.
+  - The forms are user friendly to customers which enables them to always signup or book in there love running lectures correctly before leaving the website.
+  - The form contain a section for firstname, lastname and email address where users can fill out before signing up for the lecture.
+  - The form gives the user an option of a checked road, trial or both choices before booking for a love running class.
+  - The form buttons contains a hovering flips when moving your cursor.
+
+ - Signup page forms 
+ ![sign up](assets/image/signup-page.png)
+
+
+ - __The Footer_
+   - The footer section contains social media icon links to enable the users find us on twitter X, facebook, youtube and instagram.
+   - The footer is important to users because it gives them the ability to find us on social media for vital informations and updates.
+   ![footer](assets/image/footer.png)
+
+
+ - __The Gallery Page Section_  
+
+    -  This section gives the users a beautiful view of people who have participated in our love running lecture.
+    - The section inform the users on how healthy our customers have been with love running classes.
+    
+![gallery page](assets/image/gallery-page.png)  
+
 
 
